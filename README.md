@@ -1,7 +1,7 @@
 <p>.env</p>
 <p>RESTREAM_CLIENT_ID=</p>
 <p>RESTREAM_CLIENT_SECRET=</p>
-<p>RESTREAM_REDIRECT_URI=</p>
+<p>RESTREAM_REDIRECT_URI=http://127.0.0.1:8000/callback</p>
 <br/>
 <p>Vào link:</p>
 <p>/show-stream</p>
